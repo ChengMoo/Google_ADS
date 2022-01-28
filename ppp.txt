@@ -1,4 +1,4 @@
-http://gfhkluqpip9lcupy.buhaochi.bike/world.txt
+https://ghproxy.com/https://raw.githubusercontent.com/spiritysdx/pages/main/1.txt
 http://www.proxylists.net/socks5.txt
 https://www.freeproxychecker.com/result/socks5_proxies.txt
 https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt
